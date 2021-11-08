@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+WELLCOME TO MABUR DUWUR (MAWUR)
+a website that provides rocket tickets
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+new experience exploring space with professional astronauts
+Round trip on the same rocket
